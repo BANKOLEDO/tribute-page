@@ -1,3 +1,3 @@
 # tribute-page
 
-[preview here]()
+[preview here](https://bankoledo.github.io/tribute-page/)
