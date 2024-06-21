@@ -23,7 +23,7 @@ body {
     padding: 3rem;
     text-align: center;
     font-size: 20px;
-    color: white;
+    color: bisque;
 }
 
 #header h3 {
@@ -34,7 +34,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    border: 4rem solid white;
+    border: 4rem solid bisque;
     margin: 2rem;
 }
 
@@ -44,12 +44,32 @@ img {
 }
 
 #img-caption {
-    background-color: white;
-    color: black;
+    background-color: bisque;
+    color: rgb(142, 42, 42);
+    padding-top: 2rem;
 }
 
 #image {
     max-width: 100%;
     height: auto;
     margin: 0 auto;
+}
+#tribute-info {
+    font-size: 20px;
+    color: bisque;
+}
+
+.tribute-details {
+    background-color: bisque;
+    padding: 2rem;
+    line-height: 2rem;
+}
+
+.tribute-details ul {
+    padding: 2rem 4rem;
+    font-size: 20px;
+}
+
+ul li, h2 {
+    color: rgb(142, 42, 42);
 }
